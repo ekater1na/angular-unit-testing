@@ -2,7 +2,7 @@
 
 [Unit Testing in Angular](https://app.pluralsight.com/library/courses/unit-testing-angular/exercise-files)
 
-[GH-Pages]()
+[GH-Pages](https://ekater1na.github.io/angular-unit-testing)
 
 ![img](src/app/assets/2.png)
 
